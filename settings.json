@@ -1,0 +1,24 @@
+{
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDelete": false,
+    "workbench.colorTheme": "Min Dark", //Tema do Vscode
+    "symbols.hidesExplorerArrows": false,
+    "editor.fontFamily": "JetBrains Mono", //estilo de fonte
+    "workbench.iconTheme": "material-icon-theme", // tema dos icones
+    "workbench.startupEditor": "newUntitledFile", //quando uma nova janela, abre automaticamente um novo arquivo em branco
+    "editor.renderLineHighlight": "gutter", // coloca borda na linha clicada
+    "workbench.editor.labelFormat": "short", // mostra menos imformação possível na janela do arquivo
+    "explorer.compactFolders": false, // não mostra todos os itens da pasta em uma linha só (mostra a 'árvore' de itens)
+    "breadcrumbs.enabled": false, //não mostra o camniho do arquivo na parte superior 
+    "workbench.activityBar.location": "hidden", //esconde a barra de ferramentas lateral (acessá-las com Ctrl+Q)
+    "editor.minimap.enabled": true, //Esconde o minimapa do código que fica na lateral esquerda
+    "editor.scrollbar.vertical": "hidden", // esoconde a barra de scroll horizontal
+    "workbench.statusBar.visible": false, // esconde a barra de status que fica no canto inferior da tela
+    "window.commandCenter": false, //retira a barra de pesquisar do canto superior central (acessável com Ctrl+Shift+P)
+    // "window.titleBarStyle": "native", //muda o estilo da barra de ferramentas do canto superior
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "workbench.editorAssociations": {
+        "*.xlsx": "default"
+    },
+    "liveServer.settings.donotShowInfoMsg": true, //Estilo de fonte do Terminal
+}
